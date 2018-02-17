@@ -23,4 +23,4 @@ This Notebook contains the following key elements of Titanic data analysis.
   - **Data Preparation for Kaggle Submission**
  
  
-Please refer to to either **"titanic_portfolio.ipynb"** file or Github Pages (https://atif1947.github.io/titanic_solution/) for complete solution analysis.
+Please refer to either **"titanic_portfolio.ipynb"** file or Github Pages (https://atif1947.github.io/titanic_solution/) for complete solution analysis.
